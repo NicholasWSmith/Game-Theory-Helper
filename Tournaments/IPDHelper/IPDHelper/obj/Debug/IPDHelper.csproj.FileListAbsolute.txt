@@ -1,0 +1,9 @@
+C:\Users\Nicholas\Desktop\External Hard Drive\Nicholas\Queens\4th Year 2nd Semester\MATH339\Tournaments\IPDHelper\IPDHelper\bin\Debug\IPDHelper.exe.config
+C:\Users\Nicholas\Desktop\External Hard Drive\Nicholas\Queens\4th Year 2nd Semester\MATH339\Tournaments\IPDHelper\IPDHelper\bin\Debug\IPDHelper.exe
+C:\Users\Nicholas\Desktop\External Hard Drive\Nicholas\Queens\4th Year 2nd Semester\MATH339\Tournaments\IPDHelper\IPDHelper\bin\Debug\IPDHelper.pdb
+C:\Users\Nicholas\Desktop\External Hard Drive\Nicholas\Queens\4th Year 2nd Semester\MATH339\Tournaments\IPDHelper\IPDHelper\obj\Debug\IPDHelper.csprojResolveAssemblyReference.cache
+C:\Users\Nicholas\Desktop\External Hard Drive\Nicholas\Queens\4th Year 2nd Semester\MATH339\Tournaments\IPDHelper\IPDHelper\obj\Debug\IPDHelper.Form1.resources
+C:\Users\Nicholas\Desktop\External Hard Drive\Nicholas\Queens\4th Year 2nd Semester\MATH339\Tournaments\IPDHelper\IPDHelper\obj\Debug\IPDHelper.Properties.Resources.resources
+C:\Users\Nicholas\Desktop\External Hard Drive\Nicholas\Queens\4th Year 2nd Semester\MATH339\Tournaments\IPDHelper\IPDHelper\obj\Debug\IPDHelper.csproj.GenerateResource.Cache
+C:\Users\Nicholas\Desktop\External Hard Drive\Nicholas\Queens\4th Year 2nd Semester\MATH339\Tournaments\IPDHelper\IPDHelper\obj\Debug\IPDHelper.exe
+C:\Users\Nicholas\Desktop\External Hard Drive\Nicholas\Queens\4th Year 2nd Semester\MATH339\Tournaments\IPDHelper\IPDHelper\obj\Debug\IPDHelper.pdb
