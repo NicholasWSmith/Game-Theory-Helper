@@ -7,3 +7,6 @@ C:\Users\Nicholas\Desktop\External Hard Drive\Nicholas\Queens\4th Year 2nd Semes
 C:\Users\Nicholas\Desktop\External Hard Drive\Nicholas\Queens\4th Year 2nd Semester\MATH339\Tournaments\IPDHelper\IPDHelper\obj\Debug\IPDHelper.csproj.GenerateResource.Cache
 C:\Users\Nicholas\Desktop\External Hard Drive\Nicholas\Queens\4th Year 2nd Semester\MATH339\Tournaments\IPDHelper\IPDHelper\obj\Debug\IPDHelper.exe
 C:\Users\Nicholas\Desktop\External Hard Drive\Nicholas\Queens\4th Year 2nd Semester\MATH339\Tournaments\IPDHelper\IPDHelper\obj\Debug\IPDHelper.pdb
+C:\Users\Nicholas\Desktop\External Hard Drive\GitHub\MATH339 Helper\Tournaments\IPDHelper\IPDHelper\bin\Debug\IPDHelper.exe.config
+C:\Users\Nicholas\Desktop\External Hard Drive\GitHub\MATH339 Helper\Tournaments\IPDHelper\IPDHelper\obj\Debug\IPDHelper.exe
+C:\Users\Nicholas\Desktop\External Hard Drive\GitHub\MATH339 Helper\Tournaments\IPDHelper\IPDHelper\obj\Debug\IPDHelper.pdb
